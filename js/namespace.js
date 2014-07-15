@@ -1,3 +1,8 @@
 var Bottega = {
-  Models: {}
+    Models: {}
+};
+
+var Motorola = {
+    Models: {},
+    Views: {}
 };
